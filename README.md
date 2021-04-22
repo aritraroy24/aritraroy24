@@ -64,7 +64,7 @@
 <div align="center">
 
 <details open>
-  <summary><h3 align="center">GitHub Stats & Trophy</h3></sumamary>
+  <summary><h3 align="center">GitHub Stats & Trophy</h3></summary>
   <h5 align="center">GitHub Stats</h5>
   <a href="https://github.com/aritraroy24/aritraroy24">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritraroy24&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
