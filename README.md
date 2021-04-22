@@ -64,7 +64,7 @@
  <div align="center">
 
  <div>
-<details open>
+<details close>
   <summary><h3 align="center">GitHub Stats & Trophy</h3></summary>
   
   <h5 align="center">GitHub Stats</h5>
