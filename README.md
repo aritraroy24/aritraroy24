@@ -61,9 +61,11 @@
 </p>
 </br>
 
+ <div align="center">
+
+ <div>
 <details open>
   <summary><h3 align="center">GitHub Stats & Trophy</h3></summary>
-  <div align="center">
   
   <h5 align="center">GitHub Stats</h5>
   <a href="https://github.com/aritraroy24/aritraroy24">
@@ -77,5 +79,6 @@
   <h5 align="center">Github Profile Trophy</h5></br>
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=aritraroy24&no-frame=true&theme=juicyfresh&row=1" alt="aritraroy24_github_trophy" />
 </details>
+</div>
 
 </div>
