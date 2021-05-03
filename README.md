@@ -78,4 +78,4 @@
 </div>
 
 --------
-<iframe src="https://giphy.com/embed/kmIZ4lx2ZHpr5jY0W4" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/buymeacoffee-buy-me-a-coffee-support-im-on-kmIZ4lx2ZHpr5jY0W4">via GIPHY</a></p>
+<img align="center" href="https://www.buymeacoffee.com/aritraroy24" src="https://www.linkpicture.com/q/buycoffee.png" />
