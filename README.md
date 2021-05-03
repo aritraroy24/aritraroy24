@@ -78,4 +78,4 @@
 </div>
 
 --------
-<img align="center" href="https://www.buymeacoffee.com/aritraroy24" src="https://www.linkpicture.com/q/buycoffee.png" />
+<img align="center" href="https://www.buymeacoffee.com/aritraroy24" src="https://www.linkpicture.com/q/buycoffee.png" width="150" />
