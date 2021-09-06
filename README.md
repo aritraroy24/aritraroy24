@@ -54,11 +54,11 @@
   </a>&nbsp;
   <a href="https://www.3ds.com/products-services/biovia/products/molecular-modeling-simulation/biovia-materials-studio/" target="_blank"><img src="https://www.linkpicture.com/q/materials-studio.png" alt="visualstudiocode" height="30" /
   </a>&nbsp;
-  <a href="https://perkinelmerinformatics.com/products/research/chemdraw/" target="_blank"><img src="https://www.linkpicture.com/q/chemdraw.png" alt="visualstudiocode" height="30" /
+  <a href="https://perkinelmerinformatics.com/products/research/chemdraw/" target="_blank"><img src="https://www.linkpicture.com/q/chem_draw.png" alt="visualstudiocode" height="30" /
   </a>&nbsp;
   <a href="https://notepad-plus-plus.org/" target="_blank"><img src="https://www.linkpicture.com/q/notepad.png" alt="visualstudiocode" height="30" /
   </a>&nbsp;
-  <a href="https://www.originlab.com/origin" target="_blank"><img src="https://www.linkpicture.com/q/origin.jpg" alt="visualstudiocode" height="28" /
+  <a href="https://www.originlab.com/origin" target="_blank"><img src="https://www.linkpicture.com/q/origin.jpg" alt="visualstudiocode" height="30" /
   </a>&nbsp;
   <a href="https://endnote.com/" target="_blank"><img src="https://www.linkpicture.com/q/EndNote-X9.png" alt="visualstudiocode" height="30" /
   </a>&nbsp;</br>
