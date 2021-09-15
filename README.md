@@ -85,11 +85,14 @@
 <details close>
 <summary>:blush::blush::blush:Know My GitHub:blush::blush::blush:</summary>
   <h5 align="center">GitHub Stats</h5>
-  <a href="https://github.com/aritraroy24/aritraroy24">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritraroy24&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <a href="https://gitgub.com/aritraroy24/aritraroy24"><img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=aritraroy24&theme=gotham">
   </a>
   <a href="https://github.com/aritraroy24/aritraroy24">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aritraroy24&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aritra's GitHub Stats" />
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=aritraroy24&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aritra's GitHub Stats" />
+  </br>
+    <a href="https://github.com/aritraroy24/aritraroy24">
+  <img align="center" width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritraroy24&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>
   
 </br>  
   <h5 align="center">Github Profile Trophy</h5>
