@@ -30,10 +30,10 @@
   <img src="https://www.linkpicture.com/q/connect_with_me.png" width="150">
 </p>
 <p align="center">
-<a href="https://aritraroy.netlify.app/" target="_blank"><img align="center" src="https://www.linkpicture.com/q/website_9.png" alt="aritraroy24_website" height="30" width="30" /></a>
+<a href="https://aritraroy.live/" target="_blank"><img align="center" src="https://www.linkpicture.com/q/website_9.png" alt="aritraroy24_website" height="30" width="30" /></a>
 <a href="https://linktr.ee/aritraroy24" target="_blank"><img align="center" src="https://www.linkpicture.com/q/linktree.png" alt="aritraroy24_website" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/aritraroy24" target="_blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/address-book-providers-in-black-white/512/linkedin-512.png" alt="aritraroy24" height="30" width="30" /></a>
-<a href="https://medium.com/@aritraroy24" target="_blank"><img align="center" src="https://www.linkpicture.com/q/Research-Gate.png" alt="@aritraroycoc" height="30" width="30" /></a>
+<a href="https://medium.com/@aritraroy24" target="_blank"><img align="center" src="https://www.linkpicture.com/q/researchgate.png" alt="@aritraroycoc" height="30" width="30" /></a>
 <a href="https://medium.com/@aritraroy24" target="_blank"><img align="center" src="https://www.linkpicture.com/q/medium_2.png" alt="@aritraroycoc" height="30" width="30" /></a>
 <a href="https://twitter.com/aritraroy24" target="_blank"><img align="center" src="https://www.linkpicture.com/q/twitter_5.png" alt="aritraroy24" height="30" width="30" /></a>
 <a href="https://www.facebook.com/aritraroy24/" target="_blank"><img align="center" src="https://www.linkpicture.com/q/facebook_26.png" alt="aritraroy24" height="30" width="30" /></a>
@@ -85,6 +85,11 @@
 <details close>
 <summary>:blush::blush::blush:Know My GitHub:blush::blush::blush:</summary>
   <h5 align="center">GitHub Stats</h5>
+<p align="center">
+<a href="https://github.com/aritraroy24/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=aritraroy24&theme=react-dark&area=true&hide_border=true&color=2aa889&line=599cab" width="95%">
+</a>&nbsp;
+</p>
   <img align="center" width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=aritraroy24&theme=gotham">&nbsp;&nbsp;
   <img align="center" width="44%" src="https://github-readme-stats.vercel.app/api?username=aritraroy24&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aritra's GitHub Stats" />&nbsp;&nbsp;&nbsp;
   </br></br>
