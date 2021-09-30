@@ -87,7 +87,7 @@
   <h5 align="center">GitHub Stats</h5>
 <p align="center">
 <a href="https://github.com/aritraroy24/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=aritraroy24&theme=react-dark&area=true&hide_border=true&color=2aa889&line=599cab" width="95%">
+ <img src="https://activity-graph.herokuapp.com/graph?username=aritraroy24&theme=react-dark&area=true&color=2aa889&line=599cab" width="95%">
 </a>&nbsp;
 </p>
   <img align="center" width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=aritraroy24&theme=gotham">&nbsp;&nbsp;
