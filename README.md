@@ -5,6 +5,7 @@
   <img alt="PR_welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github" href="https://github.com/aritraroy24">
   <img alt="open_source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" href="https://github.com/aritraroy24">
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=aritraroy24&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+  <img alt="WakaTime Total" src="https://wakatime.com/badge/user/2e37602a-888b-42b5-84d5-acd08721fa24.svg" />
   <img alt="Last Commit" src="https://img.shields.io/github/last-commit/aritraroy24/aritraroy24?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 </p>
 
