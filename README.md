@@ -161,6 +161,8 @@
 <div align="center">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=aritraroy24&layout=compact&theme=gotham" alt="aritraroy24 WakaTime stat" width="450" />
+</br></br>
+
 </div>
 <div align="center">
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@aritraroy24/11b134e8-c845-4d0c-b180-baf6d78eb5e6.png" width="300" /></a>
