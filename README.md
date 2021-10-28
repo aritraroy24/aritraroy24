@@ -111,10 +111,12 @@
 <a><img href="https://github.com/" target="_blank" style="margin: 10px" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Tools/github.png?raw=true" alt="github" height="30" /></a>
 <a><img href="https://git-scm.com/" target="_blank" style="margin: 10px" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Tools/git.png?raw=true" alt="git" height="30" /></a>
 <a><img href="https://firebase.google.com/" target="_blank" style="margin: 10px" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Tools/firebase.png?raw=true" alt="firebase" height="30" /></a>
+<a><img href="https://www.netlify.com/" target="_blank" style="margin: 10px" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Tools/netlify.png?raw=true" alt="netlify" height="30" /></a>
 <a><img href="https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29" target="_blank" style="margin: 10px" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Tools/bash.png?raw=true" alt="bash" height="30" /></a>
-<a><img href="https://www.linux.org/" target="_blank" style="margin: 10px" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Tools/linux.png?raw=true" alt="linux" height="30" </a>
+<a><img href="https://www.linux.org/" target="_blank" style="margin: 10px" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Tools/linux.png?raw=true" alt="linux" height="30" /></a>
 <a><img href="https://www.adobe.com/products/photoshop.html" target="_blank" style="margin: 10px" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Tools/photoshop_sq.png?raw=true" alt="photoshop" height="30" /></a>
 <a><img href="https://www.adobe.com/products/illustrator.html" target="_blank" style="margin: 10px" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Tools/illustrator_sq.png?raw=true" alt="illustrator" height="30" /></a>
+<a><img href="https://www.canva.com/" target="_blank" style="margin: 10px" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Tools/canva.png?raw=true" alt="canva" height="30" /></a>
 </div></td><td valign="top" width="33%">
 
 [comment]: <> (Library / Framework)
@@ -124,9 +126,12 @@
 ### Library / Framework
 <hr>
 <a><img href="https://matplotlib.org/" target="_blank" style="margin: 10px" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Libraries/matplotlib.png?raw=true" alt="matplotlib" height="30" /></a>
+<a><img href="https://pandas.pydata.org/" target="_blank" style="margin: 10px" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Libraries/pandas.png?raw=true" alt="pandas" height="30" /></a>
+<a><img href="https://www.scipy.org/scipylib/index.html" target="_blank" style="margin: 10px" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Libraries/scipy.png?raw=true" alt="scipy" height="30" /></a>
 <a><img href="https://numpy.org/" target="_blank" style="margin: 10px" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Libraries/numpy.png?raw=true" alt="numpy" height="30" /></a>
+<a><img href="https://getbootstrap.com/" target="_blank" style="margin: 10px" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Libraries/bootstrap.png?raw=true" alt="bootstrap" height="30" /></a>
 <a><img href="https://reactjs.org/" target="_blank" style="margin: 10px" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Libraries/react.png?raw=true" alt="react" height="30" /></a>
-<a><img href="https://redux.js.org/" target="_blank" style="margin: 10px" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Libraries/redux.png?raw=true" alt="redux" height="30" /></a>
+<a><img href="https://matplotlib.org/" target="_blank" style="margin: 10px" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Libraries/redux.png?raw=true" alt="matplotlib" height="30" /></a>
 </div></td></tr></table>  
 
 
