@@ -83,7 +83,7 @@
 
 <h3 align="center"><a href="https://github.com/aritraroy24/aritraroy24#programming">Programming</a></h3>
 
-<table><tr><td valign="top" width="20%">
+<table><tr><td valign="top" width="33%">
 
 [comment]: <> (Languages)
 
@@ -100,7 +100,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Languages/css.png?raw=true" alt="css3" width="30" height="30"/> </a>
   <a href="https://sass-lang.com/" target="_blank"> <img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Languages/sass.png?raw=true" alt="sass" width="30" height="30"/> </a>
 
-</div></td><td valign="top" width="20%">
+</div></td><td valign="top" width="33%">
 
 [comment]: <> (Tools)
 
@@ -115,7 +115,7 @@
 <p align="center"><b>UI Design</b></p>
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Tools/photoshop_sq.png?raw=true" alt="photoshop" width="30" height="30"/> </a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Tools/illustrator_sq.png?raw=true" alt="illustrator" width="30" height="30"/> </a>
-</div></td><td valign="top" width="20%">
+</div></td><td valign="top" width="33%">
 
 [comment]: <> (Library/Freameworks)
 
