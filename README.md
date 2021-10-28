@@ -3,7 +3,7 @@
 <img align="center" src="https://github.com/aritraroy24/aritraroy24/blob/master/gif/GitHub_Intro.gif?raw=true" width="100%" />
 <h3 align="center">A Theoretical Computational Chemist & Algorithm Enthusiast</h3>
 <p align="center">
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=aritraroy24&style=flat&labelColor=black&logo=awesomelists&label=PROFILE+VIEWS&color=29bf12"/>
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=aritraroy24&style=flat&labelColor=black&logo=awesomelists&label=PROFILE+VIEWS&color=fc620f"/>
   </br>
   <img alt="Last Commit" src="https://img.shields.io/github/last-commit/aritraroy24/aritraroy24?logo=markdown&label=LAST+UPDATE&color=FDCD0F&style=flat" />
   <img alt="WakaTime Total" src="https://wakatime.com/badge/user/2e37602a-888b-42b5-84d5-acd08721fa24.svg" />
@@ -78,59 +78,76 @@
   </a>&nbsp;</br>
 </p>
 
-
 [comment]: <> (Programming)
 
 <h3 align="center"><a href="https://github.com/aritraroy24/aritraroy24#programming">Programming</a></h3>
 
 <table><tr><td valign="top" width="33%">
 
-[comment]: <> (Languages)
+<div align="center"> 
+
+#### Languages  
+<hr>
+<p align="center"><b>Compiling / Scripting</b></p>
+<img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Languages/c.png?raw=true" alt="c" width="30" height="30"/>
+<img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Languages/java.png?raw=true" alt="java" width="30" height="30"/>
+<img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Languages/python.png?raw=true" alt="python" width="30" height="30"/>
+<img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Languages/javascript.png?raw=true" alt="javascript"  width="30" height="30"/>
+<p align="center"><b>Markup</b></p>
+<img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Languages/html.png?raw=true" alt="html5" width="30" height="30"/>
+<img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Languages/css.png?raw=true" alt="css3" width="30" height="30"/>
+<img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Languages/sass.png?raw=true" alt="sass" width="30" height="30"/>
+</div></td><td valign="top" width="33%">
+
+  
+<div align="center"> 
+
+#### Tools
+<hr>
+<p align="center"><b>Code</b></p>
+<img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Tools/vscode.png?raw=true" alt="visualstudiocode" height="30" width="30" />
+<img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Tools/github.png?raw=true" alt="github" height="30" width="30" />
+<img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Tools/git.png?raw=true" alt="git" width="30" height="30"/>
+<img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Tools/firebase.png?raw=true" alt="firebase" width="30" height="30"/>
+<img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Tools/bash.png?raw=true" alt="firebase" width="30" height="30"/>
+<img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Tools/linux.png?raw=true" alt="firebase" width="30" height="30"/>
+<p align="center"><b>UI Design</b></p>
+<img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Tools/photoshop_sq.png?raw=true" alt="photoshop" width="30" height="30"/>
+<img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Tools/illustrator_sq.png?raw=true" alt="illustrator" width="30" height="30"/>
+</div></td><td valign="top" width="33%">
 
 <div align="center"> 
 
-#### Languages</br><hr>
-<p align="center"><b>Compiling / Scripting</b></p>
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Languages/c.png?raw=true" alt="c" width="30" height="30"/></a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Languages/java.png?raw=true" alt="java" width="30" height="30"/> </a>
-  <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Languages/python.png?raw=true" alt="python" width="30" height="30"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Languages/javascript.png?raw=true" alt="javascript"  width="30" height="30"/></a>
-<p align="center"><b>Markup</b></p>
-  <a href="https://html.spec.whatwg.org/" target="_blank"> <img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Languages/html.png?raw=true" alt="html5" width="30" height="30"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Languages/css.png?raw=true" alt="css3" width="30" height="30"/> </a>
-  <a href="https://sass-lang.com/" target="_blank"> <img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Languages/sass.png?raw=true" alt="sass" width="30" height="30"/> </a>
-
-</div></td><td valign="top" width="33%">
-
-[comment]: <> (Tools)
-
-<div align="center">
-
-#### Tools </br><hr>
-<p align="center"><b>Code</b></p>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Tools/vscode.png?raw=true" alt="visualstudiocode" height="30" width="30" /></a>&nbsp;
-  <a href="https://github.com/" target="_blank"><img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Tools/github.png?raw=true" alt="github" height="30" width="30" /></a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Tools/git.png?raw=true" alt="git" width="30" height="30"/> </a>
-  <a href="https://firebase.google.com/" target="_blank"> <img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Tools/firebase.png?raw=true" alt="firebase" width="30" height="30"/> </a>
-<p align="center"><b>UI Design</b></p>
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Tools/photoshop_sq.png?raw=true" alt="photoshop" width="30" height="30"/> </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Tools/illustrator_sq.png?raw=true" alt="illustrator" width="30" height="30"/> </a>
-</div></td><td valign="top" width="33%">
-
-[comment]: <> (Library/Freameworks)
-
-<div align="center">
-
-#### Library / Framework</br><hr>
-<p><b>Python</b></p>
-  <a href="https://matplotlib.org/" target="_blank"> <img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Libraries/matplotlib.png?raw=true" alt="matplotlib" width="30" height="30"/> </a>
-  <a href="https://numpy.org/" target="_blank"> <img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Libraries/numpy.png?raw=true" alt="numpy" width="30" height="30"/> </a>
-<p><b>JavaScript</b></p>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Libraries/react.png?raw=true" alt="react" width="30" height="30"/> </a>
-  <a href="https://redux.js.org/" target="_blank"> <img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Libraries/redux.png?raw=true" alt="redux" width="30" height="30"/> </a>
+#### Library / Framework
+<hr> 
+<p align="center"><b>Python</b></p>
+<img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Libraries/matplotlib.png?raw=true" alt="matplotlib" width="30" height="30"/>
+<img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Libraries/numpy.png?raw=true" alt="numpy" width="30" height="30"/>
+<p align="center"><b>JavaScript</b></p>
+<img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Libraries/react.png?raw=true" alt="react" width="30" height="30"/>
+<img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Libraries/redux.png?raw=true" alt="redux" width="30" height="30"/>
 </div></td></tr></table>  
-<!-- <img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/tools.png?raw=true" width="25%" > -->
-</br>
+
+<br/>  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [comment]: <> (All Stats)
 
