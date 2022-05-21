@@ -38,14 +38,14 @@
   <img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/connect_with_me.png?raw=true" width="150">
 </p>
 <p align="center">
-<a href="https://aritraroy.live/" target="_blank"><img align="center" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Contact%20Logos/website.png?raw=true" alt="aritraroy24_website" height="30" width="30" /></a>
-<a href="https://linktr.ee/aritraroy24" target="_blank"><img align="center" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Contact%20Logos/linktree.png?raw=true" alt="aritraroy24_website" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/aritraroy24" target="_blank"><img align="center" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Contact%20Logos/linkedin.png?raw=true" alt="aritraroy24" height="30" width="30" /></a>
-<a href="https://medium.com/@aritraroy24" target="_blank"><img align="center" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Contact%20Logos/researchgate.png?raw=true" alt="@aritraroycoc" height="30" width="30" /></a>
-<a href="https://medium.com/@aritraroy24" target="_blank"><img align="center" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Contact%20Logos/medium.png?raw=true" alt="@aritraroycoc" height="30" width="30" /></a>
+<a href="https://aritraroy.live/" target="_blank"><img align="center" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Contact%20Logos/website.png?raw=true" alt="website" height="30" width="30" /></a>
+<a href="https://linktr.ee/aritraroy24" target="_blank"><img align="center" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Contact%20Logos/linktree.png?raw=true" alt="liktree" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/aritraroy24" target="_blank"><img align="center" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Contact%20Logos/linkedin.png?raw=true" alt="linkedin" height="30" width="30" /></a>
+<a href="[https://medium.com/@aritraroy24](https://www.researchgate.net/profile/Aritra-Roy-5)" target="_blank"><img align="center" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Contact%20Logos/researchgate.png?raw=true" alt="researchgate" height="30" width="30" /></a>
+<a href="https://medium.com/@aritraroy24" target="_blank"><img align="center" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Contact%20Logos/medium.png?raw=true" alt="medium" height="30" width="30" /></a>
 <a href="https://twitter.com/aritraroy24" target="_blank"><img align="center" src="https://www.linkpicture.com/q/twitter_5.png" alt="aritraroy24" height="30" width="30" /></a>
-<a href="https://www.facebook.com/aritraroy24/" target="_blank"><img align="center" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Contact%20Logos/facebook.png?raw=true" alt="aritraroy24" height="30" width="30" /></a>
-<a href="https://instagram.com/aritraroy24" target="_blank"><img align="center" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Contact%20Logos/instagram.png?raw=true" alt="aritraroy24" height="30" width="30" /></a>
+<a href="https://www.facebook.com/aritraroy24/" target="_blank"><img align="center" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Contact%20Logos/facebook.png?raw=true" alt="facebook" height="30" width="30" /></a>
+<a href="https://instagram.com/aritraroy24" target="_blank"><img align="center" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Contact%20Logos/instagram.png?raw=true" alt="instagram" height="30" width="30" /></a>
 </p>
 
 [comment]: <> (Image Devider)
