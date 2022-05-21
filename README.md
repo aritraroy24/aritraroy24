@@ -149,11 +149,6 @@
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@aritraroy24/8afbc085-7dfe-48a5-906e-8f63fec2eb04.png" width="300" /></a>
 </div>
 
-[comment]: <> (GitHub Trophy)
-
-</br>
-<h5 align="center">Github Profile Trophy</h5>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=aritraroy24&no-frame=true&theme=juicyfresh&row=1" alt="aritraroy24_github_trophy" />
 
 [comment]: <> (Buy Me a Coffee)
 
