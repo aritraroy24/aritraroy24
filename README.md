@@ -135,26 +135,6 @@
 </div></td></tr></table>  
 
 
-[comment]: <> (All Stats)
-
-<div align="center">
-<h5 align="center">GitHub Stats
-</h5>
-
-[comment]: <> (GitHub Stats)
-
-<p align="center">
-<a href="https://github.com/aritraroy24/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=aritraroy24&theme=react-dark&area=true&color=2aa889&line=599cab">
- </a>
-</p>
-  <img align="center" height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=aritraroy24&theme=gotham">
-  <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api?username=aritraroy24&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aritra's GitHub Stats" />
-  </br></br>
-  <img align="center" width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritraroy24&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-  
-</br>
-
 [comment]: <> (WakaTime Stats)
 
 <h5 align="center">WakaTime Stats</h5>
