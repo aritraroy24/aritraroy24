@@ -15,9 +15,9 @@
 
 <div align="center">
   
-  🔭 I’m currently working on [***Borophene (2D Boron Nanosheet)***](https://en.wikipedia.org/wiki/Borophene) </br>
+  🔭 I’m currently working on [***Electronic Structure and Reactivity of an Allyl-Like Trialuminium Compound***](https://www.felipefantuzzi.org/current-members#comp-l4tsr8kv) </br>
   <img align="center" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/gold_ring.png?raw=true" height="8"> </br>
-  🌱 I’m currently interested in learning **MD Simulations Related Softwares** Like [**AutoDock Vina**](http://vina.scripps.edu/), [**GROMACS**](https://www.gromacs.org/), [**PyRx**](https://pyrx.sourceforge.io/) etc. & **AI-Assisted Drug Synthesis** </br>
+  🌱 I’m currently interested in learning **MD Simulations**</br>
   <img align="center" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/gold_ring.png?raw=true" height="8"> </br>
   👨‍💻 All of my programming projects are available at [**GitHub Profile**](https://github.com/aritraroy24) </br>
   <img align="center" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/gold_ring.png?raw=true" height="8"> </br>
