@@ -1,3 +1,4 @@
+
 [comment]: <> (Headings & Badges)
 
 <img align="center" src="https://github.com/aritraroy24/aritraroy24/blob/master/gif/GitHub_Intro.gif?raw=true" width="100%" />
@@ -17,13 +18,13 @@
   
   🔭 I’m currently working on [***Electronic Structure and Reactivity of an Allyl-Like Trialuminium Compound***](https://www.felipefantuzzi.org/current-members#comp-l4tsr8kv) </br>
   <img align="center" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/gold_ring.png?raw=true" height="8"> </br>
-  🌱 I’m currently interested in learning **MD Simulations**</br>
+  🌱 I’m currently interested in learning **AI-ML in Materials Science**</br>
   <img align="center" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/gold_ring.png?raw=true" height="8"> </br>
   👨‍💻 All of my programming projects are available at [**GitHub Profile**](https://github.com/aritraroy24) </br>
   <img align="center" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/gold_ring.png?raw=true" height="8"> </br>
   📝 I regulary write articles on [**Medium**](https://medium.com/@aritraroy24) </br>
   <img align="center" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/gold_ring.png?raw=true" height="8"> </br>
-  💬 Ask me about [**Gaussian 09W**](https://gaussian.com/glossary/g09/), [**Spartan'14**](https://www.wavefun.com/spartan), [**GaussView 6.0**](https://gaussian.com/gaussview6/), [**Avogadro**](https://avogadro.cc/), [**Materials Studio 2017**](https://www.3ds.com/products-services/biovia/products/molecular-modeling-simulation/biovia-materials-studio/), [**WinCACAO**](https://wincacao.software.informer.com/), [**ChemDraw Pro 19**](https://perkinelmerinformatics.com/products/research/chemdraw/), [**Origin Pro 2018**](https://www.originlab.com/), [**Math Editor**](https://sourceforge.net/projects/eqtype/), [**EndNote X9**](https://endnote.com/) </br>
+  💬 Ask me about [**Gaussian 09W**](https://gaussian.com/glossary/g09/), [**Spartan'14**](https://www.wavefun.com/spartan), [**GaussView 6.0**](https://gaussian.com/gaussview6/), [**Avogadro**](https://avogadro.cc/), [**Chemcraft**](https://www.chemcraftprog.com/index.html), [**Materials Studio 2017**](https://www.3ds.com/products-services/biovia/products/molecular-modeling-simulation/biovia-materials-studio/), [**WinCACAO**](https://wincacao.software.informer.com/), [**Multiwfn**](http://sobereva.com/multiwfn/), [**ChemDraw Pro 19**](https://perkinelmerinformatics.com/products/research/chemdraw/), [**Origin Pro 2018**](https://www.originlab.com/), [**Math Editor**](https://sourceforge.net/projects/eqtype/), [**EndNote X9**](https://endnote.com/) </br>
   <img align="center" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/gold_ring.png?raw=true" height="8"> </br>
   📫 How to reach me? **Send a mail to -**  [**aritraroy24@gmail.com**](mailto:aritraroy24@gmail.com) </br>
   <img align="center" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/gold_ring.png?raw=true" height="8"> </br>
@@ -38,13 +39,12 @@
 </p>
 <p align="center">
 <a href="https://aritraroy.live/" target="_blank"><img align="center" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Contact%20Logos/website.png?raw=true" alt="website" height="30" width="30" /></a>
-<a href="https://linktr.ee/aritraroy24" target="_blank"><img align="center" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Contact%20Logos/linktree.png?raw=true" alt="liktree" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/aritraroy24" target="_blank"><img align="center" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Contact%20Logos/linkedin.png?raw=true" alt="linkedin" height="30" width="30" /></a>
 <a href="[https://medium.com/@aritraroy24](https://www.researchgate.net/profile/Aritra-Roy-5)" target="_blank"><img align="center" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Contact%20Logos/researchgate.png?raw=true" alt="researchgate" height="30" width="30" /></a>
 <a href="https://medium.com/@aritraroy24" target="_blank"><img align="center" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Contact%20Logos/medium.png?raw=true" alt="medium" height="30" width="30" /></a>
 <a href="https://twitter.com/aritraroy24" target="_blank"><img align="center" src="https://www.linkpicture.com/q/twitter_5.png" alt="aritraroy24" height="30" width="30" /></a>
 <a href="https://www.facebook.com/aritraroy24/" target="_blank"><img align="center" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Contact%20Logos/facebook.png?raw=true" alt="facebook" height="30" width="30" /></a>
-<a href="https://instagram.com/aritraroy24" target="_blank"><img align="center" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Contact%20Logos/instagram.png?raw=true" alt="instagram" height="30" width="30" /></a>
+<a href="https://instagram.com/royaritra24" target="_blank"><img align="center" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Contact%20Logos/instagram.png?raw=true" alt="instagram" height="30" width="30" /></a>
 </p>
 
 [comment]: <> (Image Devider)
@@ -64,6 +64,10 @@
   <a href="https://gaussian.com/gaussview6/" target="_blank"><img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Computational%20Tools/gaussview.jpg?raw=true" alt="GaussView" height="30" /
   </a>&nbsp;
   <a href="https://avogadro.cc/" target="_blank"><img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Computational%20Tools/avogadro.png?raw=true" alt="Avogadro" height="30" /
+  </a>&nbsp;
+    <a href="https://www.chemcraftprog.com/index.html" target="_blank"><img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Computational%20Tools/chemcraft.jpg?raw=true" alt="Chemcraft" height="30" /
+  </a>&nbsp;
+    <a href="http://sobereva.com/multiwfn/" target="_blank"><img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Computational%20Tools/multiwfn.png?raw=true" alt="Multiwfn" height="30" /
   </a>&nbsp;
   <a href="https://www.3ds.com/products-services/biovia/products/molecular-modeling-simulation/biovia-materials-studio/" target="_blank"><img src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Computational%20Tools/materials%20studio.png?raw=true" alt="Materials Studio" height="30" /
   </a>&nbsp;
@@ -125,7 +129,6 @@
 ### Library / Framework
 <hr>
 <a><img href="https://matplotlib.org/" target="_blank" style="margin: 10px" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Libraries/matplotlib.png?raw=true" alt="matplotlib" height="30" /></a>
-<a><img href="https://pandas.pydata.org/" target="_blank" style="margin: 10px" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Libraries/pandas.png?raw=true" alt="pandas" height="30" /></a>
 <a><img href="https://www.scipy.org/scipylib/index.html" target="_blank" style="margin: 10px" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Libraries/scipy.png?raw=true" alt="scipy" height="30" /></a>
 <a><img href="https://numpy.org/" target="_blank" style="margin: 10px" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Libraries/numpy.png?raw=true" alt="numpy" height="30" /></a>
 <a><img href="https://getbootstrap.com/" target="_blank" style="margin: 10px" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Libraries/bootstrap.png?raw=true" alt="bootstrap" height="30" /></a>
@@ -133,32 +136,10 @@
 <a><img href="https://matplotlib.org/" target="_blank" style="margin: 10px" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/Tools%20&%20Technologies/Programming/Libraries/redux.png?raw=true" alt="matplotlib" height="30" /></a>
 </div></td></tr></table>  
 
-
-[comment]: <> (WakaTime Stats)
-
-<h5 align="center">WakaTime Stats</h5>
-<div align="center">
-
-</div>
-<div align="center">
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@aritraroy24/11b134e8-c845-4d0c-b180-baf6d78eb5e6.png" width="300" /></a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@aritraroy24/8afbc085-7dfe-48a5-906e-8f63fec2eb04.png" width="300" /></a>
-</div>
-
-
-[comment]: <> (Buy Me a Coffee)
-
 ---
 
 <p align="center">
 	<a href="https://www.buymeacoffee.com/aritraroy24" ><img align="center" src="https://github.com/aritraroy24/aritraroy24/blob/master/img/buyme.png?raw=true" width="200" /></a>
 </p>
-
-
-
-
-
-
-
 
 
