@@ -64,7 +64,7 @@ class Aritra:
                        @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+=-=@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
                        "
         self.pronouns = ["He", "Him"]
-        self.currentPosition = "Research Scholar"
+        self.currentPosition = "Doctoral Researcher"
         self.organization = "London South Bank University, London, UK"
         self.currentFocus = ["AI-ML", "VASP"]
         self.askMeAbout = ["Gaussian 16", "Multiwfn", "Materials Studio", "Bash Automation"]
@@ -81,7 +81,7 @@ class Aritra:
             "dataScience": {
             	"dataProcessing": ["NumPy", "Matplotlib", "Pandas"],
                 "modelCreation": ["scikit-learn", "TensorFlow"],
-            }
+            },
             "databases": ["MongoDB", "MySql"],
             "IDE": ["VS Code", "Google Colab"],
         }
