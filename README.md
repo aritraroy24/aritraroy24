@@ -70,7 +70,7 @@ class Aritra:
         self.askMeAbout = ["Gaussian 16", "Multiwfn", "Materials Studio", "Bash Automation"]
         self.language = ["Python", "JavaScript", "TypeScript", "PHP", "Astro", "LaTeX", "Markdown"]
         self.technologies = {
-        	"frontEnd": {
+            "frontEnd": {
             	"ui/ux": ["Bootstrap", "Tailwind CSS"],
                 "js": ["React"],
             },
