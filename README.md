@@ -10,8 +10,9 @@
 ```python
 
 
-class Aritra:
+class MyProfile:
     def __init__(self):
+	self.name = "Aritra Roy"
 	self.avatar = "                                ....... .                                  
                                                  ...:..:......:::.....                            
                                              ......:.....................:                        
