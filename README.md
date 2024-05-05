@@ -70,9 +70,9 @@ class Aritra:
         self.askMeAbout = ["Gaussian 16", "Multiwfn", "Materials Studio", "Bash Automation"]
         self.language = ["Python", "JavaScript", "TypeScript", "PHP", "Astro", "LaTeX", "Markdown"]
         self.technologies = {
-            "frontEnd": {
-            	"ui/ux": ["Bootstrap", "Tailwind CSS"],
-                "js": ["React"],
+	    "frontEnd": {
+		"ui/ux": ["Bootstrap", "Tailwind CSS"],
+		"js": ["React"],
             },
             "backEnd": {
                 "js": ["Node"],
@@ -80,20 +80,20 @@ class Aritra:
             },
             "dataScience": {
             	"dataProcessing": ["NumPy", "Matplotlib", "Pandas"],
-                "modelCreation": ["scikit-learn", "TensorFlow"],
+                "modelCreation": ["scikit-learn", "PyTorch"],
             },
             "databases": ["MongoDB", "MySql"],
             "IDE": ["VS Code", "Google Colab"],
         }
         self.contact = {
-        	"main" : {
+	    "main" : {
             	"website": "www.aritraroy.live",
-        		"email": "contact@aritraroy.live",
+		"email": "contact@aritraroy.live",
             	"linkedIn": "https://www.linkedin.com/in/aritraroy24/",
             },
             "researchProfile": {
             	"orcid": "https://orcid.org/0000-0003-0243-9124",
-        		"googleScholar": "https://scholar.google.nl/citations?hl=en&user=er7v8VoAAAAJ",
+		"googleScholar": "https://scholar.google.nl/citations?hl=en&user=er7v8VoAAAAJ",
             	"researchGate": "https://www.researchgate.net/profile/Aritra-Roy-5",
         	},
             "socials": {
@@ -104,11 +104,11 @@ class Aritra:
             }
         }
         self.tutorials = {
-        	"videos": "https://www.youtube.com/@CompChemStudio",
-            "blogs": {
-            	"website": "https://aritraroy.live/tutorial/blogs",
-                "medium": "https://aritraroy24.medium.com/",
-            }
+	    "videos": "https://www.youtube.com/@CompChemStudio",
+	    "blogs": {
+		"website": "https://aritraroy.live/tutorial/blogs",
+		"medium": "https://aritraroy24.medium.com/",
+	    }
         }
         self.quote = "Science is nothing but perception."
         self.funFact = "There are two ways to write error-free programs; only the third one works."
