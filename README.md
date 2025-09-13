@@ -67,13 +67,18 @@ class MyProfile:
         self.pronouns = ["He", "Him"]
         self.currentPosition = "Doctoral Researcher"
         self.organization = "London South Bank University, London, UK"
-        self.currentFocus = ["AI-ML", "VASP"]
+        self.currentFocus = ["AI-ML", "VASP", "Agentic Workflow"]
         self.askMeAbout = ["Gaussian 16", "Multiwfn", "Materials Studio", "Bash Automation"]
-        self.language = ["Python", "JavaScript", "TypeScript", "PHP", "Astro", "LaTeX", "Markdown"]
+        self.language = ["Python", "JavaScript", "TypeScript", "PHP", "LaTeX", "Markdown"]
         self.technologies = {
-	    "frontEnd": {
-		"ui/ux": ["Bootstrap", "Tailwind CSS"],
-		"js": ["React"],
+            "cheminformatics": ["RDKit", "Open Babel", "py3Dmol", "matminer"]
+            "llmForScience": {
+                "techniques": ["Prompt Engineering", "Fine-tuning", "RAG", "Agentic Workflow"],
+                "frameworks": ["Langchain", "CrewAI"]
+            },
+	        "frontEnd": {
+		        "ui/ux": ["Bootstrap", "Tailwind CSS"],
+		        "js": ["React", "Astro"],
             },
             "backEnd": {
                 "js": ["Node"],
@@ -83,34 +88,34 @@ class MyProfile:
             	"dataProcessing": ["NumPy", "Matplotlib", "Pandas"],
                 "modelCreation": ["scikit-learn", "PyTorch"],
             },
-            "databases": ["MongoDB", "MySql"],
+            "databases": ["MongoDB", "MySql", HuggingFace],
             "IDE": ["VS Code", "Google Colab"],
         }
         self.contact = {
-	    "main" : {
+	        "main" : {
             	"website": "www.aritraroy.live",
-		"email": "contact@aritraroy.live",
+		        "email": "contact@aritraroy.live",
             	"linkedIn": "https://www.linkedin.com/in/aritraroy24/",
             },
             "researchProfile": {
             	"orcid": "https://orcid.org/0000-0003-0243-9124",
-		"googleScholar": "https://scholar.google.nl/citations?hl=en&user=er7v8VoAAAAJ",
+		        "googleScholar": "https://scholar.google.nl/citations?hl=en&user=er7v8VoAAAAJ",
             	"researchGate": "https://www.researchgate.net/profile/Aritra-Roy-5",
         	},
             "socials": {
-            	"facebook": "https://www.facebook.com/aritraroy24/",
                 "twitter": "https://twitter.com/aritraroy24",
-                "mastodon": "https://mastodon.social/@aritraroy24",
+            	"facebook": "https://www.facebook.com/aritraroy24/",
                 "instagram": "https://www.instagram.com/royaritra24/",
             }
         }
         self.tutorials = {
-	    "videos": "https://www.youtube.com/@CompChemStudio",
-	    "blogs": {
-		"website": "https://aritraroy.live/tutorial/blogs",
-		"medium": "https://aritraroy24.medium.com/",
-	    }
+	        "videos": "https://www.youtube.com/@CompChemStudio",
+	        "blogs": {
+		        "website": "https://aritraroy.live/tutorial/blogs",
+		        "medium": "https://aritraroy24.medium.com/",
+	        }
         }
+        self.motivation = "AGI for Science"
         self.quote = "Science is nothing but perception."
         self.funFact = "There are two ways to write error-free programs; only the third one works."
 ```
