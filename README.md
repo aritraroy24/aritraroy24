@@ -74,7 +74,7 @@ class MyProfile:
             "cheminformatics": ["RDKit", "Open Babel", "py3Dmol", "matminer"]
             "llmForScience": {
                 "techniques": ["Prompt Engineering", "Fine-tuning", "RAG", "Agentic Workflow"],
-                "frameworks": ["Langchain", "CrewAI"]
+                "frameworks": ["LangChain", "LangGraph", "CrewAI"]
             },
 	        "frontEnd": {
 		        "ui/ux": ["Bootstrap", "Tailwind CSS"],
@@ -88,7 +88,7 @@ class MyProfile:
             	"dataProcessing": ["NumPy", "Matplotlib", "Pandas"],
                 "modelCreation": ["scikit-learn", "PyTorch"],
             },
-            "databases": ["MongoDB", "MySql", HuggingFace],
+            "databases": ["MongoDB", "MySql", "HuggingFace"],
             "IDE": ["VS Code", "Google Colab"],
         }
         self.contact = {
